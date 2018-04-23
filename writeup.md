@@ -49,7 +49,7 @@ Here is an exploratory visualization of the data set. It is a bar chart showing 
 
 As a first step, I decided to improve the equity of the label frequency in the histogram. That helps the random function to choose the classes randomly and not to overfit the model for classes with high frequency in the training set.
 
-Moreover I applied a random rotation (-7,7 Grades), zoom (.8,1.1) a sheer(0.3) on these supplementary images in the training set.
+Moreover I applied a random rotation (-7,7 Grades), zoom (.8,1.1) a shear(0.3) on these supplementary images in the training set.
 
 On all pictures of the enhanced training set I applied grayscaling and normalization (0,255) -> (-1,1)  
 
